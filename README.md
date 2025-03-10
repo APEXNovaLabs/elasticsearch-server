@@ -14,3 +14,9 @@
 
 - **Run:** `node elasticsearch.js`
 - **Run:** `node testElactisearch.js`
+
+### May help
+
+- The Front folder is empty, we wanted to make a simple search tool and sorting.
+- The server is fully functionnal, node server works perfectly.
+- Contact us if you wanna contribute on the repository.
